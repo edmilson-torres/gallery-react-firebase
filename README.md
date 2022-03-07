@@ -5,6 +5,7 @@
 Project made to study Firebase integration using ReactJS with Typescript
 
 ## 🖼️ Screenshot
+![Captura de tela 2022-03-06 - 22 06 45](https://user-images.githubusercontent.com/64763336/156951349-1ed55d9b-0e72-4c20-8b33-28c66807b7c1.png)
 
 ## 📚 Packages:
 
@@ -16,7 +17,7 @@ Project made to study Firebase integration using ReactJS with Typescript
 
 - Config Firebase with yours credentials
 - Install dependencies with
-  `Yarn`
+  `yarn`
 
 ## ⚙️ Available Scripts
 
